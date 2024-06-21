@@ -27,4 +27,5 @@ Goal - I want contributors to help me list some favorite Board Games.
 6. The game of life
 7. Chess
 8. UNO
-9. Shadow Raiders
+9. Catan
+10. Shadow Raiders
